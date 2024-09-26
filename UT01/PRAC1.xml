@@ -23,8 +23,8 @@
         id_partida
         ganador
         ronda
-
 -->
+        
 <club>
     <juegos>
         <juego id_juego="j1">
